@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T22:23:13.730Z" agent="5.0 (Windows)" version="14.2.9" etag="f73_4OEPe6t58YVgUPyY" type="github"><diagram id="AEH41FLwmYGm3HT7lsEY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-11T22:53:28.699Z" agent="5.0 (Windows)" etag="6DlgzYlORwFNbM-s9PSu" version="14.3.0" type="github">
+  <diagram id="AEH41FLwmYGm3HT7lsEY" name="Page-1">
+    <mxGraphModel dx="1329" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-2" target="b-mmRj7KoS4KCfBYW3QP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-2" value="Pagos Server" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d79b00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#ffcd28;shape=mxgraph.mscae.enterprise.cluster_server;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="100" y="105" width="64" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-4" target="b-mmRj7KoS4KCfBYW3QP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-4" value="Tx Externas" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fff2cc;shape=mxgraph.azure.file;" vertex="1" parent="1">
+          <mxGeometry x="210" y="331" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-5" target="b-mmRj7KoS4KCfBYW3QP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-5" value="Tx Externas" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fff2cc;shape=mxgraph.azure.file;" vertex="1" parent="1">
+          <mxGeometry x="210.00000000000003" y="120" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-7" target="b-mmRj7KoS4KCfBYW3QP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-7" value="File System Pagos" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/fs-icons-ubuntu-by-franksouza-dark/128/system-file-manager.png;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="296.3" y="116" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-10" target="b-mmRj7KoS4KCfBYW3QP-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-10" value="File System Host" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/fs-icons-ubuntu-by-franksouza-dark/128/system-file-manager.png" vertex="1" parent="1">
+          <mxGeometry x="296.3" y="327" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-16" target="b-mmRj7KoS4KCfBYW3QP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-16" value="Setin Host" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d79b00;fillColor=#ffcd28;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.mainframe_host;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="100" y="321" width="65.8" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-19" value="BD Pagos" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/vibrant/48/Database_48x48.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-32" target="b-mmRj7KoS4KCfBYW3QP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-32" value="Carga Archivo BD" style="shape=image;html=1;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="394" y="122.25" width="38.78" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-36" target="b-mmRj7KoS4KCfBYW3QP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-36" target="b-mmRj7KoS4KCfBYW3QP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-36" value="Control M" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;shape=mxgraph.aws3.run_command;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;html=1;labelBorderColor=none;labelBackgroundColor=none;labelPosition=left;" vertex="1" parent="1">
+          <mxGeometry x="308.3" y="240" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-45" value="&lt;h1 class=&quot;_3aiN_ _3ge2w _2OGrd _3v9gP css-336&quot; title=&quot;CoE TI - Monitoreo de Experiencia Digital&quot; style=&quot;font-size: 11px;&quot;&gt;CoE TI - Monitoreo de Experiencia Digital&lt;/h1&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d79b00;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;align=left;fillColor=#ffcd28;shape=mxgraph.mscae.system_center.admin_console;labelBackgroundColor=none;gradientColor=#ffa500;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="459" y="600" width="51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-46" target="b-mmRj7KoS4KCfBYW3QP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-46" value="&lt;div&gt;Software MonitoreoSitescope&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d79b00;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;align=left;fillColor=#ffcd28;shape=mxgraph.mscae.enterprise.database_server;labelBackgroundColor=none;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="454" y="380" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-50" target="b-mmRj7KoS4KCfBYW3QP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-50" target="b-mmRj7KoS4KCfBYW3QP-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-50" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.alert;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="467.4" y="510" width="33.2" height="33.2" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-54" target="b-mmRj7KoS4KCfBYW3QP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-54" value="Ejecución Corte Pagos" style="shape=image;html=1;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="113.50999999999999" y="30" width="38.78" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="b-mmRj7KoS4KCfBYW3QP-56" target="b-mmRj7KoS4KCfBYW3QP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-mmRj7KoS4KCfBYW3QP-56" value="Carga Corte Pagos" style="shape=image;html=1;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="113.50999999999999" y="243.5" width="38.78" height="45.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
